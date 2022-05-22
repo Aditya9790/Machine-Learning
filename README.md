@@ -1,5 +1,5 @@
 # Machine-Learning
-I will be uploading small machine Learning projects.
+I will be uploading small machine Learning projects.<br>
 Libraries used : 
 1. Numpy
 2. Pandas
